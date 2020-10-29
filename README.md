@@ -15,17 +15,21 @@ How to Run the Code
 Assuming you are using a Mac computer and have brew installed already, this should be runnable with either
 
 python run.py DBLP.txt
+
 Or
+
 python run.py DBLP.5k.txt
 
 depending on which corpus you would like to use as the input file. You will see the file at data/En when the ingestion is done.
 
 
 Contribution
+
 Tiange Wan & Yicen Ma
 
 
 Work Cited
+
 Professor Jingbo Shang’s Github: https://github.com/shangjingbo1226/AutoPhrase
 Jingbo Shang, Jialu Liu, Meng Jiang, Xiang Ren, Clare R Voss, Jiawei Han, "Automated Phrase Mining from Massive Text Corpora", accepted by IEEE Transactions on Knowledge and Data Engineering, Feb. 2018.
 
