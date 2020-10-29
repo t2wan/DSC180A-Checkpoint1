@@ -13,9 +13,11 @@ The code basically includes Python Script that generates a Bash File and calls t
 How to Run the Code
 
 Assuming you are using a Mac computer and have brew installed already, this should be runnable with either
+
 python run.py DBLP.txt
 Or
 python run.py DBLP.5k.txt
+
 depending on which corpus you would like to use as the input file. You will see the file at data/En when the ingestion is done.
 
 
