@@ -11,6 +11,7 @@ Code Content
 The code basically includes Python Script that generates a Bash File and calls that Bash to pull data from the cloud.
 	
 How to Run the Code
+
 	Assuming you are using a Mac computer and have brew installed already, this should be runnable with either
 python run.py DBLP.txt
 Or
