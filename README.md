@@ -23,15 +23,19 @@ python run.py DBLP.5k.txt
 depending on which corpus you would like to use as the input file. You will see the file at data/En when the ingestion is done.
 
 
-Contribution
-
-Tiange Wan & Yicen Ma
-
 
 Work Cited
 
 Professor Jingbo Shang’s Github: https://github.com/shangjingbo1226/AutoPhrase
 Jingbo Shang, Jialu Liu, Meng Jiang, Xiang Ren, Clare R Voss, Jiawei Han, "Automated Phrase Mining from Massive Text Corpora", accepted by IEEE Transactions on Knowledge and Data Engineering, Feb. 2018.
+
+
+### Responsibilities
+
+We discussed the general idea of the replication project and outlined the steps of the process together.
+Tiange Wan: majority of code portion, reviewed the report portion and did the modification on the report.
+Yicen Ma: majority of report portion, review the code portion and involved in the readme file.
+
 
 
 
